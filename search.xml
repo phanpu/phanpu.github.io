@@ -4,23 +4,19 @@
   
     
     <entry>
-      <title>现代应用数学介绍（一）工业制造“硬科技”发展现状 -鄂维南</title>
-      <link href="/2021/09/15/page/"/>
-      <url>/2021/09/15/page/</url>
+      <title>Latex thmbox定理环境包</title>
+      <link href="/2021/09/15/thmbox/"/>
+      <url>/2021/09/15/thmbox/</url>
       
-        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>&emsp;&emsp;阅读材料：</p><p>&emsp;&emsp;（1）<strong>The Dawning of a New Era in Applied Mathmatics</strong></p><p>&emsp;&emsp;（2）<strong>碳中和误区及其现实路径</strong></p><p>&emsp;&emsp;（3）<strong>瑞士机床产业的启示</strong></p>]]></content>
+        <content type="html"><![CDATA[<p><strong>好看！</strong></p><p><a href="thmbox.pdf">点击下载</a></p><div class="row">    <embed src="thmbox.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
       
-      
-      <categories>
-          
-          <category> 现代应用数学介绍 </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> 应用数学 </tag>
+            <tag> Latex </tag>
+            
+            <tag> thmbox </tag>
             
         </tags>
       
