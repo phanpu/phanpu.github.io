@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>定理环境后换行操作</title>
+      <link href="/2021/09/19/ding-li-huan-jing-hou-huan-xing-cao-zuo/"/>
+      <url>/2021/09/19/ding-li-huan-jing-hou-huan-xing-cao-zuo/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>&emsp;&emsp;latex定理环境后的内容紧跟定理序号或者定理名，如果直接输入\\强制换行会报错，这个时候改成$\ $就好，如</p><pre class="line-numbers language-latex" data-language="latex"><code class="language-latex">\begin&#123;Thm&#125;[欧拉定理]$\ $e^&#123;i\pi&#125;+1&#x3D;0\end&#123;Thm&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> latex </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Latex thmbox定理环境包</title>
       <link href="/2021/09/15/thmbox/"/>
       <url>/2021/09/15/thmbox/</url>
