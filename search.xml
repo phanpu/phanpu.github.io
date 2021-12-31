@@ -4,7 +4,28 @@
   
     
     <entry>
-      <title>定理环境后换行操作</title>
+      <title>北京大学数理逻辑笔记</title>
+      <link href="/2022/01/01/shu-li-luo-ji/"/>
+      <url>/2022/01/01/shu-li-luo-ji/</url>
+      
+        <content type="html"><![CDATA[<p>[点击下载](mathematical logic.pdf)</p><div class="row">    <embed src="mathematical" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 北京大学 </tag>
+            
+            <tag> 数理逻辑 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Latex 定理环境后换行操作</title>
       <link href="/2021/09/19/ding-li-huan-jing-hou-huan-xing-cao-zuo/"/>
       <url>/2021/09/19/ding-li-huan-jing-hou-huan-xing-cao-zuo/</url>
       
