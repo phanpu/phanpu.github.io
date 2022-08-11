@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>GTM196 Basic Homological Algebra 笔记</title>
+      <link href="/2022/08/11/basic-homological-algebra/"/>
+      <url>/2022/08/11/basic-homological-algebra/</url>
+      
+        <content type="html"><![CDATA[<p>今年5月的时候看了点同调代数，算是打个基础，8月准备看看Weibel，想起来还写了份GTM196前四章的笔记。</p><p><a href="Basic_Homological_Algebra.pdf">点击下载</a></p><div class="row">    <embed src="Basic_Homological_Algebra.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数理逻辑 </tag>
+            
+            <tag> 北京大学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>北京大学微分流形笔记</title>
       <link href="/2022/03/19/wei-fen-liu-xing/"/>
       <url>/2022/03/19/wei-fen-liu-xing/</url>
@@ -35,9 +56,9 @@
       
         <tags>
             
-            <tag> 北京大学 </tag>
-            
             <tag> 数理逻辑 </tag>
+            
+            <tag> 北京大学 </tag>
             
         </tags>
       
