@@ -130,27 +130,6 @@
 
   
   <url>
-    <loc>http://phanpu.github.io/tags/IMO/</loc>
-    <lastmod>2024-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/</loc>
-    <lastmod>2024-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/2021/</loc>
-    <lastmod>2024-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/%E5%90%8C%E8%B0%83%E4%BB%A3%E6%95%B0/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>daily</changefreq>
@@ -173,6 +152,27 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/IMO/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/</loc>
+    <lastmod>2024-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/2021/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -221,14 +221,14 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/%E5%BE%AE%E5%88%86%E6%B5%81%E5%BD%A2/</loc>
+    <loc>http://phanpu.github.io/tags/%E5%BA%94%E7%94%A8%E9%9B%86/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/%E5%BA%94%E7%94%A8%E9%9B%86/</loc>
+    <loc>http://phanpu.github.io/tags/%E5%BE%AE%E5%88%86%E6%B5%81%E5%BD%A2/</loc>
     <lastmod>2024-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
