@@ -4,27 +4,6 @@
   
     
     <entry>
-      <title>Latex thmbox定理环境包</title>
-      <link href="/2024/04/04/thmbox/"/>
-      <url>/2024/04/04/thmbox/</url>
-      
-        <content type="html"><![CDATA[<p><strong>好看！</strong></p><p><a href="thmbox.pdf">点击下载</a></p><div class="row">    <embed src="thmbox.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> Latex </tag>
-            
-            <tag> thmbox </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>A rough reading note for Milne&#39;s &quot;Class Field Theory&quot;</title>
       <link href="/2022/10/24/class-field-theory/"/>
       <url>/2022/10/24/class-field-theory/</url>
@@ -158,6 +137,27 @@
         <tags>
             
             <tag> latex </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Latex thmbox定理环境包</title>
+      <link href="/2021/09/15/thmbox/"/>
+      <url>/2021/09/15/thmbox/</url>
+      
+        <content type="html"><![CDATA[<p><strong>好看！</strong></p><p><a href="thmbox.pdf">点击下载</a></p><div class="row">    <embed src="thmbox.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Latex </tag>
+            
+            <tag> thmbox </tag>
             
         </tags>
       
