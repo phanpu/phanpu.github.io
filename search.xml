@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>p-divisible_groups</title>
+      <link href="/2023/09/26/p-divisible-groups/"/>
+      <url>/2023/09/26/p-divisible-groups/</url>
+      
+        <content type="html"><![CDATA[<p>Recently I read and re-typed the first three chapters of Demazure’s famous book “$p$-divisible groups”. I thought these parts are useful, but for the remains, one could see <a href="http://van-der-geer.nl/~gerard/AV.pdf">this perfect book</a>.</p><p><a href="Lectures_on_p_Divisible_Groups.pdf">点击下载</a></p><div class="row">    <embed src="Lectures_on_p_Divisible_Groups.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> group schemes </tag>
+            
+            <tag> formal group schemes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>A rough reading note for Milne&#39;s &quot;Class Field Theory&quot;</title>
       <link href="/2022/10/24/class-field-theory/"/>
       <url>/2022/10/24/class-field-theory/</url>
