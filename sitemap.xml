@@ -151,20 +151,6 @@
 
   
   <url>
-    <loc>http://phanpu.github.io/tags/Abelian-Varieties/</loc>
-    <lastmod>2024-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/Algebra/</loc>
-    <lastmod>2024-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>daily</changefreq>
@@ -179,21 +165,21 @@
   </url>
   
   <url>
+    <loc>http://phanpu.github.io/tags/Algebra/</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/Abelian-Varieties/</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://phanpu.github.io/tags/Number-Theory/</loc>
-    <lastmod>2024-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/hexo/</loc>
-    <lastmod>2024-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/my-blog/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -215,6 +201,20 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/2021/</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/hexo/</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/my-blog/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -256,14 +256,14 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/latex/</loc>
+    <loc>http://phanpu.github.io/tags/%E5%BE%AE%E5%88%86%E6%B5%81%E5%BD%A2/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/%E5%BE%AE%E5%88%86%E6%B5%81%E5%BD%A2/</loc>
+    <loc>http://phanpu.github.io/tags/latex/</loc>
     <lastmod>2024-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
