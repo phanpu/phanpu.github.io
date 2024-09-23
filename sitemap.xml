@@ -200,6 +200,48 @@
   </url>
   
   <url>
+    <loc>http://phanpu.github.io/tags/IMO/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/2021/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/hexo/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/my-blog/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/Number-Theory/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://phanpu.github.io/tags/group-schemes/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
@@ -208,13 +250,6 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/formal-group-schemes/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/Number-Theory/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -236,41 +271,6 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/p-adic-geometry/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/hexo/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/my-blog/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/IMO/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/2021/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -335,14 +335,14 @@
 
   
   <url>
-    <loc>http://phanpu.github.io/categories/seminars/</loc>
+    <loc>http://phanpu.github.io/categories/blog/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/categories/blog/</loc>
+    <loc>http://phanpu.github.io/categories/seminars/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
