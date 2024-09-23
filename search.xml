@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>A reading seminar on $p$-adic Geometry</title>
+      <link href="/2024/08/26/seminar-on-p-adic-geometry/"/>
+      <url>/2024/08/26/seminar-on-p-adic-geometry/</url>
+      
+        <content type="html"><![CDATA[<p>This is the page of a reading seminar for graduate or undergraduate students organized by me, aiming to thoroughly understand some basic results in $p$-adic geometry. </p><hr><p><strong>Main References</strong></p><ul><li>Siegfried Bosch, <a href="https://www.math.purdue.edu/~tongliu/seminar/rigid/Bosch.pdf">Lectures on Formal and Rigid Geometry</a></li><li>Torsten Wedhorn, <a href="https://arxiv.org/pdf/1910.05934">Adic Spaces</a></li><li>Bhargav Bhatt, <a href="https://public.websites.umich.edu/~bhattb/teaching/mat679w17/lectures.pdf">Lecture notes for a class on perfectoid spaces</a></li></ul><hr><p><strong>Location and Time</strong></p><p>Sunday 8:00pm, online.</p><p><strong>Notes</strong></p><p>The overleaf link is <a href="https://www.overleaf.com/read/cfxwpqrvhpyn#e86d51">here</a>.</p><hr><p><strong>Schedule</strong></p><table><thead><tr><th align="left">Topic</th><th align="center">Speaker</th><th align="right">Date</th></tr></thead><tbody><tr><td align="left">Tate algebras</td><td align="center">Fan Pu</td><td align="right">1 September</td></tr><tr><td align="left">Affinoid algebras</td><td align="center">Fan Pu</td><td align="right">8 September</td></tr><tr><td align="left"><del>Gerritzen–Grauer, Tate acyclicity</del></td><td align="center"><del>Fan Pu</del></td><td align="right"><del>15 September</del> (Mid-Autumn Festival)</td></tr><tr><td align="left">Gerritzen–Grauer, Tate acyclicity</td><td align="center">Fan Pu</td><td align="right">22 September</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> seminars </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> seminars </tag>
+            
+            <tag> p-adic geometry </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A reading seminar on $p$-adic Hodge theory</title>
+      <link href="/2024/07/10/seminar-on-p-adic-hodge-theory/"/>
+      <url>/2024/07/10/seminar-on-p-adic-hodge-theory/</url>
+      
+        <content type="html"><![CDATA[<p>This is the page of a reading seminar for graduate or undergraduate students organized by me, aiming to thoroughly understand some basic results in $p$-adic Hodge theory. The textbook is Brian Conrad’s <a href="https://math.stanford.edu/~conrad/papers/notes.pdf">book</a>. </p><hr><p><strong>Main References</strong></p><ul><li>Brian Conrad, <a href="https://math.stanford.edu/~conrad/papers/notes.pdf">CMI SUMMER SCHOOL NOTES ON $p$-ADIC HODGE THEORY</a></li><li>Ouyang Yi and Jean-Marc Fontaine, <a href="http://staff.ustc.edu.cn/~yiouyang/galoisrep.pdf">Theory of $p$-adic Galois Representations</a></li><li>Serin Hong, <a href="https://math.arizona.edu/~serinh/Notes%20on%20p-adic%20Hodge%20theory.pdf">Notes on $p$-adic Hodge theory</a></li></ul><hr><p><strong>Location and Time</strong></p><p>Thursday and Sunday 8:00pm, online.</p><p><strong>Notes</strong></p><p>The overleaf link is <a href="https://www.overleaf.com/read/ftycdwhpvxwn#5a9675">here</a>.</p><hr><p><strong>Schedule</strong></p><table><thead><tr><th align="left">Topic</th><th align="center">Speaker</th><th align="right">Date</th></tr></thead><tbody><tr><td align="left">Motivation</td><td align="center">Fan Pu</td><td align="right">11 July</td></tr><tr><td align="left">Hodge-Tate representations</td><td align="center">Fan Pu</td><td align="right">14 July</td></tr><tr><td align="left">Étale $\varphi$-modules</td><td align="center">Fan Pu</td><td align="right">18 July</td></tr><tr><td align="left">Refinement of the period rings</td><td align="center">Fan Pu</td><td align="right"><del>21 July</del>(cancelled because of no audience) , 25 July</td></tr><tr><td align="left">Admissibility and de Rham representations</td><td align="center">Fan Pu</td><td align="right">28 July</td></tr><tr><td align="left"><del>$p$-divisible groups and isocrystals</del></td><td align="center">Fan Pu</td><td align="right"><del>1 August</del>(cancelled)</td></tr><tr><td align="left">Isocrystals, filtered $(\phi,N)$-modules and admissibility</td><td align="center">Fan Pu</td><td align="right">4 August</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> seminars </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> seminars </tag>
+            
+            <tag> p-adic Hodge theory </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>p-divisible_groups</title>
+      <link href="/2023/09/26/p-divisible-groups/"/>
+      <url>/2023/09/26/p-divisible-groups/</url>
+      
+        <content type="html"><![CDATA[<p>Recently I read and re-typed the first three chapters of Demazure’s famous book “Lectures on $p$-divisible groups”. I thought these parts are useful, but for the remains, one could see <a href="http://van-der-geer.nl/~gerard/AV.pdf">this perfect book</a>.</p><p><a href="Lectures_on_p_Divisible_Groups.pdf">点击下载</a></p><div class="row">    <embed src="Lectures_on_p_Divisible_Groups.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> group schemes </tag>
+            
+            <tag> formal group schemes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A rough reading note for Ben Moonen&#39;s &quot;Abelian varieties&quot;.</title>
+      <link href="/2023/04/26/abelian-varieties/"/>
+      <url>/2023/04/26/abelian-varieties/</url>
+      
+        <content type="html"><![CDATA[<p><a href="Abelian_varieties___Ben_Moonen.pdf">Download here.</a></p><div class="row">    <embed src="Abelian_varieties___Ben_Moonen.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Abelian Varieties </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A rough reading note for Milne&#39;s &quot;Class Field Theory&quot;</title>
+      <link href="/2022/10/24/class-field-theory/"/>
+      <url>/2022/10/24/class-field-theory/</url>
+      
+        <content type="html"><![CDATA[<p><a href="Class_Field_Theory.pdf">Download here.</a></p><div class="row">    <embed src="Class_Field_Theory.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Number Theory </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GTM196 Basic Homological Algebra 笔记</title>
+      <link href="/2022/08/11/basic-homological-algebra/"/>
+      <url>/2022/08/11/basic-homological-algebra/</url>
+      
+        <content type="html"><![CDATA[<p>今年5月的时候看了点同调代数，算是打个基础，8月准备看看Weibel，想起来还写了份GTM196前四章的笔记。</p><p><a href="Basic_Homological_Algebra.pdf">点击下载</a></p><div class="row">    <embed src="Basic_Homological_Algebra.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数理逻辑 </tag>
+            
+            <tag> 北京大学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>北京大学微分流形笔记</title>
+      <link href="/2022/03/19/wei-fen-liu-xing/"/>
+      <url>/2022/03/19/wei-fen-liu-xing/</url>
+      
+        <content type="html"><![CDATA[<p>一位北大学长分享的微分流形笔记，在树洞看到了。</p><p><a href="differentiable_manifold.pdf">点击下载</a></p><div class="row">    <embed src="differentiable_manifold.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 北京大学 </tag>
+            
+            <tag> 微分流形 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>北京大学数理逻辑笔记</title>
+      <link href="/2022/01/01/shu-li-luo-ji/"/>
+      <url>/2022/01/01/shu-li-luo-ji/</url>
+      
+        <content type="html"><![CDATA[<p><a href="mathematical-logic.pdf">点击下载</a></p><div class="row">    <embed src="mathematical-logic.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数理逻辑 </tag>
+            
+            <tag> 北京大学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A rough reading note for Atiyah&#39;s commutative algebra</title>
+      <link href="/2021/12/26/a-rough-reading-note-for-atiyah-s-commutative-algebra/"/>
+      <url>/2021/12/26/a-rough-reading-note-for-atiyah-s-commutative-algebra/</url>
+      
+        <content type="html"><![CDATA[<p><a href="Commutative_Algebra_Atiyah.pdf">Download here.</a></p><div class="row">    <embed src="Commutative_Algebra_Atiyah.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Algebra </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Latex 定理环境后换行操作</title>
+      <link href="/2021/09/19/ding-li-huan-jing-hou-huan-xing-cao-zuo/"/>
+      <url>/2021/09/19/ding-li-huan-jing-hou-huan-xing-cao-zuo/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>&emsp;&emsp;latex定理环境后的内容紧跟定理序号或者定理名，如果直接输入\\强制换行会报错，这个时候改成$\ $就好，如</p><pre class="line-numbers language-latex" data-language="latex"><code class="language-latex">\begin&#123;Thm&#125;[欧拉定理]$\ $e^&#123;i\pi&#125;+1&#x3D;0\end&#123;Thm&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> latex </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Latex thmbox定理环境包</title>
+      <link href="/2021/09/15/thmbox/"/>
+      <url>/2021/09/15/thmbox/</url>
+      
+        <content type="html"><![CDATA[<p><strong>好看！</strong></p><p><a href="thmbox.pdf">点击下载</a></p><div class="row">    <embed src="thmbox.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Latex </tag>
+            
+            <tag> thmbox </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人应用集备份和推荐，解决手机存储空间不足</title>
+      <link href="/2021/09/07/shou-ji-ying-yong-ji-bei-fen/"/>
+      <url>/2021/09/07/shou-ji-ying-yong-ji-bei-fen/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>&emsp;&emsp;作为一名学生党，每次换新机都很肉痛。现在的手机，存储空间(以下称为“内存”，但是其实不是一个概念)和价格都是随年份增长而增长，十年以前象征大内存的16GB的手机放到现在已经完全不够看了，而我现在的64G的手机，也差点在一年前退伍，究其原因，还是因为现在的app过于臃肿。</p><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;现在国内外的手机厂商和app开发商都深谙一个道理，那就是国内的韭菜可太好割了，对国内外消费者群体区别对待这种事，不仅在手机用户群体，在其他部分行业也屡有发生，当然我们现在只聊手机的话题。</p><p>&emsp;&emsp;为了在各个领域都分一杯羹，国内的app厂商都对“全家桶”模式情有独钟，目的也很明确，就是为了让你能在我的app里做各种你需要手机做的事——聊天、看直播、玩游戏、刷新闻、听音乐、看小说、浏览网页等。在这方面，用户对大内存的需求和厂商对大内存的需求是一致的(笑)。但是，这也会导致用户对自己手机上应用的近乎一半功能都是不需要的，或者是“被迫”使用的，从而浪费掉大量的内存。但是app厂商怎么会考虑你的感受，管你用不用，再小的我也要挤。</p><p>&emsp;&emsp;当然“全家桶”模式是一方面，监管也是问题。在国外，ios有app store而Android有google play来进行监管，他们都有自己的开发者协议要求开发人员满足条件才能上架，不满足的app就无法通过审核，但是在国内，应用商店千千万，应用来源也有各种渠道，监管很成问题，厂商也可以更随心所欲去霸占你的内存。</p><p>&emsp;&emsp;当然妥协是有限度的，在这个问题严重到过几天就得打开一遍手机管家清理一遍的时候，就是把利刃杀向那些臃肿的app的时候了。替代品虽然不好找，但是不是没有，以下就分享下我找到的各大app的替代品，并根据我的使用情况进行打分。</p><h3 id="酷安"><a href="#酷安" class="headerlink" title="酷安"></a>酷安</h3><p><font size="5">★★★★☆</font></p><p>&emsp;&emsp;一切的开始，流氓app的噩梦，刷机党的大型搞基社区，完美的手机应用市场替代品，这篇文章的大多数app都来自于酷安的评论区，美中不足的是，这个为了制裁流氓才下载的app本身开始变得臃肿起来，屠龙者终成恶龙(笑)，这也是打4分的原因。不过目前来看性价比还是很高，现在内存占用差不多200M。</p><p><strong>优点</strong>：不必多说，没有它就没有这篇文章<br><strong>缺点</strong>：广告多</p><p>2024.05.16 补充：小绿书名存实亡，★★★☆☆。</p><h3 id="Tim"><a href="#Tim" class="headerlink" title="Tim"></a>Tim</h3><p><font size="5">★★★☆☆</font></p><p>&emsp;&emsp;微信由于某些功能的受限，不太好找替代品，但是qq可以使用官方制作的<a href="https://office.qq.com/download.html">tim</a>软件，虽然qq有简洁模式，但是并不能改变内存占比，tim聊天界面和qq简洁模式(更新前)很像，常用的群功能(如匿名，发红包，签到，群投票)都有，形式基本照搬qq，没有<del>空间和</del>qq看点，没有各种广告，没有各种特效，没有各种主题，没有小程序小游戏，花里胡哨的基本都没有。群头像和人头像为圆角矩阵，是我比较喜欢的类型，比微信的方形和qq的纯圆形要好很多，（在此又想at一下雷军）。甚至有比qq做的好的地方，邮箱管理不要太方便，比qq那个好太多。<br>&emsp;&emsp;qq原来动辄4-5个GB，清理聊天记录都不管用，Tim现在内存占用1.44GB（我已经很久没清理消息记录了），讲真作为单纯的聊天软件还是不够少，但是比qq要好一点了。</p><p><strong>优点</strong>：足够简洁，满足我对qq简洁版的所有幻想，不该有的都没有，该有的也基本都有，QQ邮箱管理算是个小惊喜，卸载了装了很久的QQ邮箱app。<br><strong>缺点</strong>：漏消息，不知道是因为挂电脑还是关后台的原因；没有聊天背景设置，算是我比较难受的一个被删掉的功能。</p><h3 id="b站play版2-10-1"><a href="#b站play版2-10-1" class="headerlink" title="b站play版2.10.1"></a><del>b站play版2.10.1</del></h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;<del>b站在google play上线的版本，和国内“特供版”不同，play版没有广告和会员购，其他基本差不多。3.0之后的版本有了直播功能，所以我还保留着最后的2.10.1版。<br>&emsp;&emsp;出乎很多人意料的是，b站也是内存占用的大户，它甚至一度达到了7个GB（没有下载任何视频），不知道都缓存了些什么鬼，我卸载重装过两次（第一次卸载后一度解决了当时的内存危机），重装后也差不多有1GB+，换play版本有几个月了，现在内存占用393MB。</del></p><p><del><strong>优点</strong>：无广告，无直播，无会员购。<br><strong>缺点</strong>：偶尔会有繁体。</del></p><p><strong>2024.05.16补充：建议小米手机开启谷歌服务下载最新play版，2.10.1很早就已经被叔叔制裁了。</strong></p><h3 id="白马地图"><a href="#白马地图" class="headerlink" title="白马地图"></a>白马地图</h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;内存占用125MB，地图app中比较简洁的了，打开app发现其实就是高德+百度(笑)。</p><p><strong>优点</strong>：无广告，简洁，百度+高德<br><strong>缺点</strong>：对于我这种只查查地图的来说还可以，但是某些功能来说可能有些简陋了，比如语音导航很有问题，我基本不用。</p><h3 id="存储空间清理"><a href="#存储空间清理" class="headerlink" title="存储空间清理"></a>存储空间清理</h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;强大的存储空间清理软件，主要是内存可视化，目前存储占用11.45MB。</p><p><strong>优点</strong>：清理空间，内存分析可视化<br><strong>缺点</strong>：付费功能感觉没多大用，钱感觉白掏了，还有想删个东西会被警告，但是我真的想删掉他（无语）,</p><h3 id="虎扑"><a href="#虎扑" class="headerlink" title="虎扑"></a><del>虎扑</del></h3><p><del>&emsp;&emsp;推荐使用无直播功能的旧版，虽然有广告界面也很复古，但是内存小。我这里还用的新版，因为旧版实在是看的不舒服。</del></p><h3 id="via浏览器"><a href="#via浏览器" class="headerlink" title="via浏览器"></a>via浏览器</h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;在夸克浏览器忘掉了“不忘初心”之后，Via浏览器成了我的首选，它就是一个浏览器，剩下的什么也没有，一个搜索框，就是整个首页，简洁到不能再简洁。当然浏览器有的功能它也都有，书签、记录、隐身等。如果想要玩转via，还可以个性化下载几个<a href="http://via-app.cn/#/tabBar/home">轻插件</a>。目前内存占有87.45MB。</p><p><strong>优点</strong>：足够简洁，谁用谁知道。<br><strong>缺点</strong>：</p><h3 id="QQ音乐简洁版"><a href="#QQ音乐简洁版" class="headerlink" title="QQ音乐简洁版"></a><del>QQ音乐简洁版</del></h3><p><del>&emsp;&emsp;刚下没多久，暂时不评价了，目前内存占用104MB，不过刚更新了一次，所以不准确，之后更新。</del></p><h3 id="椒盐音乐-音乐标签-（2024-05-16-补充）"><a href="#椒盐音乐-音乐标签-（2024-05-16-补充）" class="headerlink" title="椒盐音乐+音乐标签 （2024.05.16 补充）"></a>椒盐音乐+音乐标签 （2024.05.16 补充）</h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;音乐软件还是应该本地化。</p><h3 id="See"><a href="#See" class="headerlink" title="See"></a><del>See</del></h3><p><font size="5">★★★★★</font></p><p><del>&emsp;&emsp;完美的微博替代品，微博第三方app有凉了一个又一个，上一个是share，希望下一个不是see。目前内存占用46.15MB。</del></p><p><del><strong>优点</strong>：完美替代微博<br><strong>缺点</strong>：希望它不要凉</del></p><p><em>垃圾新浪！</em></p><p>2024.05.16 补充：凉了。</p><h3 id="掌阅（酷友魔改版）"><a href="#掌阅（酷友魔改版）" class="headerlink" title="掌阅（酷友魔改版）"></a>掌阅（酷友魔改版）</h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;只有一个功能，就是阅读txt，书城广告签到全都删掉了，由于个人非常喜欢掌阅的风格，所以这个app魔改版正中心怀，链接在<a href="https://pan.baidu.com/s/1cNlFU038eONQIGgXsydyQQ#/">这里</a>，密码6134。<br>&emsp;&emsp;内存占用32.25MB，可以说是非常小了。</p><p><strong>优点</strong>：回归一个txt阅读器最原始的功能<br><strong>缺点</strong>：删掉功能的部分会有留白，比如上拉签到，现在上拉会有空白，看起来有点难受，不过小瑕疵。</p><h3 id="WPS-Office（酷友魔改版）"><a href="#WPS-Office（酷友魔改版）" class="headerlink" title="WPS Office（酷友魔改版）"></a>WPS Office（酷友魔改版）</h3><p><font size="5">★★★★★</font></p><p>&emsp;&emsp;解锁所有VIP功能，删除广告，极致简洁。链接在<a href="https://wwi.lanzoui.com/i5n2Agnu28j">这里</a>。<br>&emsp;&emsp;内存占用105MB</p><h3 id="Hydrogen"><a href="#Hydrogen" class="headerlink" title="Hydrogen"></a><del>Hydrogen</del></h3><p><font size="5">★★★★☆</font></p><p><del>&emsp;&emsp;知乎第三方app，不过我不怎么用知乎，这个第三方软件操作起来还是有点难受的。不过足够小，目前内存占用14.33MB。</del></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 应用集 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 应用集 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>09-21年高联一试汇总（按年份分类和按题型分类）（持续更新）</title>
+      <link href="/2021/08/18/gao-lian-yi-shi-hui-zong-an-nian-fen-fen-lei-he-an-ti-xing-fen-lei-chi-xu-geng-xin/"/>
+      <url>/2021/08/18/gao-lian-yi-shi-hui-zong-an-nian-fen-fen-lei-he-an-ti-xing-fen-lei-chi-xu-geng-xin/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>2021 已更新。</p><p><a href="/download/09-21.7z">按年份分类</a></p><p><a href="/download/%E5%88%86%E7%B1%BB.7z">按题型分类</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 高联 </tag>
+            
+            <tag> 一试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>IMO 2021 个人解答</title>
+      <link href="/2021/07/22/imo2021/"/>
+      <url>/2021/07/22/imo2021/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p><a href="2021_IMO.pdf">点击下载</a></p><div class="row">    <embed src="2021_IMO.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> IMO </tag>
+            
+            <tag> 数学竞赛 </tag>
+            
+            <tag> 2021 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人的北大部分课程测评（大三）</title>
+      <link href="/2021/07/11/ge-ren-de-bei-da-bu-fen-ke-cheng-ce-ping-da-san/"/>
+      <url>/2021/07/11/ge-ren-de-bei-da-bu-fen-ke-cheng-ce-ping-da-san/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><h3 id="微分几何"><a href="#微分几何" class="headerlink" title="微分几何"></a>微分几何</h3><p>&emsp;&emsp;史宇光老师的微分几何，期中不难，期末考的有点猝不及防，背的各种公式都没有用到，相反有点偏“几何化”，最后成绩两极分化，老师在群里语气也有点不高兴，具体可见某几个吐槽树洞。</p><h3 id="偏微分方程"><a href="#偏微分方程" class="headerlink" title="偏微分方程"></a>偏微分方程</h3><p>&emsp;&emsp;周蜀林老师的pde，期末往年题比例蛮大的，另外建议把每个定理的证明都好好看一下背一下。</p><h3 id="实变函数"><a href="#实变函数" class="headerlink" title="实变函数"></a>实变函数</h3><p>&emsp;&emsp;章志飞老师的实变函数，没有期中，期末明确会告诉你有很多课后题，还考了一道定理默写，最后成绩还不错。</p><h3 id="孙子兵法导读"><a href="#孙子兵法导读" class="headerlink" title="孙子兵法导读"></a>孙子兵法导读</h3><p>&emsp;&emsp;助教xjj很漂亮人也很好，论文+期末+抽查签到三次，考试有往年题+背诵材料，主要考默写+分析词语+论述，给分很好，背诵量有点大，不过可以只背名句，亲测有大概一两个默写不出来，但是最后分数也上了90。内容上感觉一般，像是高中老师在分析文言文，没有特别多干货。</p><h3 id="中华毽"><a href="#中华毽" class="headerlink" title="中华毽"></a>中华毽</h3><p>&emsp;&emsp;唐彦老师的中华毽，非常nice的老师，课程任务量不重，要求60次中华毽打卡，然后小组一次的pre，期中期末两次考核，期中不看成绩。期末会给很多次机会，像我们给了8次，两节课各4次，3对及格，30对满分。中华毽本身不难，0基础一天速成及格线很容易，期中就是半天速成的9对。课上会有很多小游戏，并不仅仅是单纯的毽子教学。老师会提供毽子，不需要自己购买。</p><h3 id="泛函分析"><a href="#泛函分析" class="headerlink" title="泛函分析"></a>泛函分析</h3><p>&emsp;&emsp;周斌老师的泛函分析，考试往年题比例不小，出的题不难，建议考前刷一下泛函学习指南，因为今年期中从上面出了一道题作为压轴。</p><h3 id="二十世纪中外关系史"><a href="#二十世纪中外关系史" class="headerlink" title="二十世纪中外关系史"></a>二十世纪中外关系史</h3><p>&emsp;&emsp;给分感觉一般，只能说D类通选课常规操作，读书报告+讲座报告/参观报告+平时成绩+开卷期末50%，期末4选2，而且只考期中后的部分，平时成绩是在教学网讨论区的发言，没有签到，读书报告从老师提供的书目里选，课程内容感觉学到的东西还是蛮多的，毕竟和外交有关的历史涉及的也不多，感觉学到蛮多东西的。</p><h3 id="基础代数几何"><a href="#基础代数几何" class="headerlink" title="基础代数几何"></a>基础代数几何</h3><p>&emsp;&emsp;蔡金星老师的基础代数几何，期中是一篇读书报告，但是是在期末交，然后期末大概50%，老师会调比例，期末是5道题，前面的题做出来不难，考前觉得自己什么也不会，结果考试的时候感觉还蛮基础的，感觉读书报告会扣掉不少分数。作业两周一交，教材用的是introduction to algebraic curves，一本写的还蛮不错的教材。</p><h3 id="群与表示"><a href="#群与表示" class="headerlink" title="群与表示"></a>群与表示</h3><p>&emsp;&emsp;阳恩林老师会提供讲义，4次作业+1次期末，没有期中，考试范围是serre前11章中的10章，期末是6+3的形式，前6题用到的知识比较基础，并没有涉及到前11章靠后的知识（感觉定理白背了），后面的题比较难但是分值小，最后应该捞了下人但是没有调分。</p><h3 id="微分流形"><a href="#微分流形" class="headerlink" title="微分流形"></a>微分流形</h3><p>&emsp;&emsp;bzq老师的微分流形，可能在我心中评价仅仅好于郭帅老师的复变函数，内容上感觉有点多，而且定理证明经常略过，作业也很阴间，树洞随便翻一下就知道了，有人在树洞提供了一份笔记，包括作业和考试题，应该也同步发到了知乎。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程测评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 北京大学 </tag>
+            
+            <tag> 课程测评 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人的北大部分课程测评（大一）</title>
+      <link href="/2021/07/10/ge-ren-de-bei-da-bu-fen-ke-cheng-ce-ping-da-yi/"/>
+      <url>/2021/07/10/ge-ren-de-bei-da-bu-fen-ke-cheng-ce-ping-da-yi/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>大学生活接近尾声，随便写几篇课程测评，记录下课程感受。</p><h3 id="军训吐槽"><a href="#军训吐槽" class="headerlink" title="军训吐槽"></a>军训吐槽</h3><p>&emsp;&emsp;军训隔得时间比较远，而且由于某些原因，当时去的条件比较差的延庆，并没有去原来都去的怀柔，听说20级解锁了昌平。总体来说和高中的军训差不多，伙食比较差，基本中午几个见不到肉的菜早晚馒头，但是有小卖部可以买酱，犹记得小卖部的雪糕很赞，每天中午都有很多人排队。<br>&emsp;&emsp;内容上来讲，大体也就那些东西，唯一比较特别的可能是快结束的时候安排的半夜轮班站岗，一人大概一小时这样。电子设备是允许使用的，晚上也会有很多宿舍在打牌，不过这个似乎看院系辅导员的要求，我们当时的辅导员是个很nice的胖胖的老师，管的也很松。<br>&emsp;&emsp;军训绝大多数时间都用来刷<a href="https://pkuhelper.pku.edu.cn/hole/">树洞</a>了,一方面了解大学的环境，另一方面也是各种吃瓜，军训的爆瓜速率还是蛮猛的，毕竟怨声载道的学生需要一个发泄的空间，每天都有院系人高强度吐槽教官和辅导员。记忆比较深的一个瓜，大概如下，有个同学家长是部队的，因为没有戴正帽子被教官骂了几次，但是屡教不改，而且晚上回去给家长打了电话，这事当时闹得蛮大的，不过据说后来那名同学树洞匿名道歉了。</p><h3 id="数分1"><a href="#数分1" class="headerlink" title="数分1"></a>数分1</h3><p>&emsp;&emsp;数分1选的实验班，李伟固老师讲课很nice，但是给分不太好，出的题很难。老师会把最高分调成100分，而且老师承诺不会挂人，这点对于对绩点无所谓的人还是很不错的。值得一提的是，老师有个助教会在习题课提供往年题，所以考试前可以多询问下另一个习题课的同学。</p><h3 id="高代1"><a href="#高代1" class="headerlink" title="高代1"></a>高代1</h3><p>&emsp;&emsp;高代实验班杨磊老师给分很好，据说很多100分，但是我选的王福正老师。当时和田青春老师相比，王老师口碑要好很多，据说后来wfz老师在树洞口碑有一波翻车。最后成绩不是很好，不过原因大都在自己，室友有一个总评100分的。我因为期中一道20分的送分题，5*5的矩阵直接算错导致分数直接崩掉。</p><h3 id="几何学"><a href="#几何学" class="headerlink" title="几何学"></a>几何学</h3><p>&emsp;&emsp;几何我选的刘毅老师的实验班（没错，我完美避开了给分最好的高代实验班），老师不按书上讲，但是会发讲义，老师会讲很多射影几何和双曲几何的知识，由于期中之前就会涉及到变换群的知识，所以建议对基础的群的知识和部分置换群等有一定的了解。<br>&emsp;&emsp;另:老师课程主页可直接百度搜索到，可以查看往年作业和讲义。</p><h3 id="思修"><a href="#思修" class="headerlink" title="思修"></a>思修</h3><p>&emsp;&emsp;思修选的大名鼎鼎的杨柳新老师，给分只能说的确比较差，而且课堂点名这件事也确实很难让人喜欢，老师会在教室内不停的走动，所以课堂摸鱼也很难。不过老师任务量还好，一篇进大学的感悟和读书笔记（具体几篇记不得了，看树洞说每周一篇），然后分组每组有两篇pre，最后期末50%。</p><h3 id="军理"><a href="#军理" class="headerlink" title="军理"></a>军理</h3><p>&emsp;&emsp;这课背就完了，给分吹风机，考试最后一道题是你对这门课的建议，死命吹就完了，听说吹的长篇大论的最后给分都很不错。</p><h3 id="三宝"><a href="#三宝" class="headerlink" title="三宝"></a>三宝</h3><p>&emsp;&emsp;这课评测不少，期中论文或pre形式不限+期末85%，这课也是背，不过内容很有用，上了才知道自己的常识有多么缺乏。<br>&emsp;&emsp;另外建议能pre最好pre，毕竟有学长带下限不会太低，我当初选择自己写论文结果因为是人生第一篇写的一塌糊涂，而且查重都过不了，最后总评也很差。</p><h3 id="北大数学导引课"><a href="#北大数学导引课" class="headerlink" title="北大数学导引课"></a>北大数学导引课</h3><p>&emsp;&emsp;一门pf的课，不知道现在还有没有，选着玩的，好像出勤多于一定比例就是p了，不过确实没去上过几次。</p><h3 id="语音与听说词汇（已退）"><a href="#语音与听说词汇（已退）" class="headerlink" title="语音与听说词汇（已退）"></a>语音与听说词汇（已退）</h3><p>&emsp;&emsp;这门课建议能排雷就排雷，能想象到的缺点基本都有，具体树洞搜一下就知道了。</p><h3 id="数分2"><a href="#数分2" class="headerlink" title="数分2"></a>数分2</h3><p>&emsp;&emsp;数分2依然选的李伟固老师，情况和数分1差不多，傅里叶展开老师会讲很多书上没有的东西，最后总评和数分1差不多。</p><h3 id="高代2"><a href="#高代2" class="headerlink" title="高代2"></a>高代2</h3><p>&emsp;&emsp;依然王福正老师，最后成绩比高代1要好一些。</p><h3 id="普物1"><a href="#普物1" class="headerlink" title="普物1"></a>普物1</h3><p>&emsp;&emsp;刘树新老师会发ppt，一个学期两本书学起来蛮吃力的，但是考试会考原题。</p><h3 id="计算概论-python"><a href="#计算概论-python" class="headerlink" title="计算概论(python)"></a>计算概论(python)</h3><p>&emsp;&emsp;这门课大部分内容还是靠自学吧，甘锐老师会发ppt，但是感觉不如看书来的实在，考试有一次上机，一次期末，期末题量感觉蛮大的，不太能做得完。甘锐老师树洞风评不太好，主要是给分很差。</p><h3 id="大学国文"><a href="#大学国文" class="headerlink" title="大学国文"></a>大学国文</h3><p>&emsp;&emsp;张一南老师的国文讲的很好，老师会发书所以教材不需要购买，期末有赏析红楼梦和一道作文，作文题目会提前告诉你，当初选的时候题目是流浪地球，记得当初写了一段蛮阴谋论的小说片段，最后给分一般般，总体来说很nice的老师，经常会和同学在课程群互动，分享自己的书籍和一些公众号文章。听说老师喜欢比较独特风格而且合她口味的答案，所以选课的人可以发散下自己的思维好好准备下。</p><h3 id="史纲"><a href="#史纲" class="headerlink" title="史纲"></a>史纲</h3><p>&emsp;&emsp;选的张永老师，没记错的话，考核方式是论文+读书报告+期末，然后有几次会点名，给分一般吧，最后成绩感觉不是很理想，感觉问题在论文，如果论文写的够好成绩肯定不会差。</p><h3 id="篮球"><a href="#篮球" class="headerlink" title="篮球"></a>篮球</h3><p>&emsp;&emsp;张戈老师的篮球，给分极好，正态以上很容易，期末考核分两部分，背运胯下和变向，以及30秒5个三步上篮，后者可以不断考直到成功为止。最后会有几节课给你自由打球的时间。</p><h3 id="高代2选讲"><a href="#高代2选讲" class="headerlink" title="高代2选讲"></a>高代2选讲</h3><p>&emsp;&emsp;当时是傅翔老师开的，讲的很基础的抽代，英文授课，两次take-home work，第一次很简单，第二次很难，最后给分很好。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程测评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 北京大学 </tag>
+            
+            <tag> 课程测评 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人的北大部分课程测评（大二）</title>
+      <link href="/2021/07/10/ge-ren-de-bei-da-bu-fen-ke-cheng-ce-ping-da-er/"/>
+      <url>/2021/07/10/ge-ren-de-bei-da-bu-fen-ke-cheng-ce-ping-da-er/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><h3 id="数分3"><a href="#数分3" class="headerlink" title="数分3"></a>数分3</h3><p>&emsp;&emsp;依旧是李伟固老师，具体见之前测评。</p><h3 id="抽象代数"><a href="#抽象代数" class="headerlink" title="抽象代数"></a>抽象代数</h3><p>&emsp;&emsp;选的张继平院士的课，没有期中，期末前给了一堆试题，且与考试大部分重合，考试是m选n形式的，具体数忘了。最后给分很nice，当然没有好好做给的试题的人考完后肯定会非常后悔。</p><h3 id="数据结构"><a href="#数据结构" class="headerlink" title="数据结构"></a>数据结构</h3><p>&emsp;&emsp;先说考核，孙猛老师的数据结构是两篇大作业+期中10%+期末+平时成绩，两篇大作业好好写，多做下往年题上80不难，老师上课就是念ppt，他的ppt可以通过修改课程主页链接的年份找到。给分一般，应该会调分，总评比预期高了一点。</p><h3 id="普物2"><a href="#普物2" class="headerlink" title="普物2"></a>普物2</h3><p>&emsp;&emsp;胡晓东老师的普物2，一个学期2.5本书，期中1本，期末1.5本，内容巨多，考前背公式背了好几天，最后给分情况还不错，老师会调分，我应该是挂科边缘被老师捞了一把。另外参加一些竞赛会得到老师的加分。</p><h3 id="昆曲欣赏"><a href="#昆曲欣赏" class="headerlink" title="昆曲欣赏"></a>昆曲欣赏</h3><p>&emsp;&emsp;非常nice的通选课，任务量也少，剧评+论文+签到，剧评有几个替换选项，最后给分极好。每节课都会请一个或多个昆曲领域的大师级人物来授课，也有很多校外的同学来听。</p><h3 id="英语阅读"><a href="#英语阅读" class="headerlink" title="英语阅读"></a>英语阅读</h3><p>&emsp;&emsp;李淑静老师的英语阅读，因为水平问题没有得到很高的分数，但是老师非常nice，任务是每节课一张课前预习的worksheet，写了就行，然后要到指定网站做指定数量的英语阅读，然后有三次单词测验，内容是选择题4选1，好好背过单词的基本秒选那种，每个小组有一次pre，最后大统考。老师课比较划水，如果想学到知识的话慎选。</p><h3 id="拓扑"><a href="#拓扑" class="headerlink" title="拓扑"></a>拓扑</h3><p>&emsp;&emsp;王家军老师的拓扑，考试有点难，好好做作业题的话成绩不会太差，最后给分也一般般，而且期中似乎不公布成绩。</p><p>&emsp;&emsp;<strong>因为疫情原因，大二下学期在家上的网课</strong></p><h3 id="复变函数"><a href="#复变函数" class="headerlink" title="复变函数"></a>复变函数</h3><p>&emsp;&emsp;郭帅老师的复变函数，最后pf了，交齐作业+一篇论文就p，不过据说论文看都没有看，老师的复变教材用的Ahlfors，讲的内容有点乱，不知道是不是网课的原因，（而且老师的孩子还经常在上课的时候弹钢琴），讲真如果最后期末是考试的话，最后成绩肯定完蛋。最后几节课的内容完全没有理解。</p><h3 id="网球"><a href="#网球" class="headerlink" title="网球"></a>网球</h3><p>&emsp;&emsp;李玉新老师的网球可能是疫情期间为数不多的没有在家任务的体育课了，最后一篇小论文就是p了，只恨一学期只能选一门体育。</p><h3 id="英语听说"><a href="#英语听说" class="headerlink" title="英语听说"></a>英语听说</h3><p>&emsp;&emsp;闻钧老师的英语听说，期末是两人一组表演情景对话+听力，平时成绩是课上两人一组的情景对话和随机点名回答问题，因为电脑有电流麦的原因，平时成绩直接炸掉，最后听力考试感觉也蛮难的。另外课上会有听力的quiz，具体的考核比例记不太清了。</p><h3 id="哲学导论"><a href="#哲学导论" class="headerlink" title="哲学导论"></a>哲学导论</h3><p>&emsp;&emsp;李超杰老师的哲学导论，考核是出勤+一篇论文，最后给分很好，具体的课没有怎么听。</p><h3 id="概率论"><a href="#概率论" class="headerlink" title="概率论"></a>概率论</h3><p>&emsp;&emsp;回学校考的试，考的是真的很简单，难的东西感觉都没怎么涉及，感觉小学生来都能做好几道233。</p><h3 id="常微分方程"><a href="#常微分方程" class="headerlink" title="常微分方程"></a>常微分方程</h3><p>&emsp;&emsp;李伟固老师的常微分，上课就是念书，也是回学校考的试，有一定比例往年题，如果没有提前做过的话蛮难的，当时卡在一道小题上卡了一个小时，导致最后没有做完，最后40%的作业+60%的期末，白给40分总评还不错。</p><h3 id="数学模型"><a href="#数学模型" class="headerlink" title="数学模型"></a>数学模型</h3><p>&emsp;&emsp;周珍楠老师的数学模型，考试期中期末开卷+一次小组论文+平时成绩，内容有很多基础的泛函的东西，因为是开卷的原因最后成绩还不错。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程测评 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 北京大学 </tag>
+            
+            <tag> 课程测评 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo+github 搭建个人博客个人方法</title>
+      <link href="/2021/07/05/my-first-blog/"/>
+      <url>/2021/07/05/my-first-blog/</url>
+      
+        <content type="html"><![CDATA[<p><em>Welcome to my blog.</em></p><p>&emsp;&emsp;网上已有很多关于博客搭建的教程，但大都较为模糊且有点瑕疵，这里根据这个网站的搭建经验，来介绍下我的方法和过程中出现的一些问题。由于本人建造前对这类问题也是一知半解，所以本篇教程对小白非常友好。</p><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>&emsp;&emsp;首先准备的要下载到本地的工具有<a href="https://git-scm.com/downloads">git</a>，<a href="http://nodejs.cn/download/">nodejs</a>，其次要在<a href="http://github.com/">github</a>上注册一个账号，如果你还有一个域名的话更好，但是本篇教程不介绍如何把github pages网页绑定到指定域名，相关内容可以自行百度。</p><h3 id="在github中创建网站"><a href="#在github中创建网站" class="headerlink" title="在github中创建网站"></a>在github中创建网站</h3><p>&emsp;&emsp;在github主页新建一个Repository，name填写 xxx.github.io，xxx一般为你的用户名，选择public（如果你不想付费的话），新建完成后，在你的repository页面点击设置，找到github pages，点击选择主题，随意选择一个后你的一个线上网站便建立成功。可以访问xxx.github.io观看。</p><h3 id="配置git"><a href="#配置git" class="headerlink" title="配置git"></a>配置git</h3><p>&emsp;&emsp;git的配置比较简单，下载安装完成后，鼠标在任意文件夹任意空白处右键，会多出两个选项:”git GUI here”,”git bash here”。在任意位置点击”git bash here”，打开操作界面。</p><p>&emsp;&emsp;设置用户名和邮箱</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">git config --global user.name &#39;你github的用戸名&#39;git config --global user.email &#39;你github的登录邮箱&#39;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>&emsp;&emsp;生成密钥并绑定</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">ssh-keygen -t rsa -C&#39;你的登录邮箱&#39;<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>&emsp;&emsp;<em>如果它要求输入密码，回车即可。</em></p><p>&emsp;&emsp;记事本打开.ssh文件夹下的id-rsa.pub文件(如果找不到可以用everything软件搜索)，复制里面的内容，之后打开github主页，点击你的头像，点击设置，点击SSH and GPG keys，点击New SSH key，粘贴保存即可。</p><h3 id="配置nodejs"><a href="#配置nodejs" class="headerlink" title="配置nodejs"></a>配置nodejs</h3><p>&emsp;&emsp;nodejs安装时建议安装到一个指定的文件夹，方便后续操作，如我是下载到D:\Program Files\nodejs。</p><p>&emsp;&emsp;安装完成后，如果怕安装出现问题，可以在cmd或是刚才的git bash中输入。</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">node -vnpm -v<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>&emsp;&emsp;如果出现版本号，则代表已经安装成功。</p><p>&emsp;&emsp;另外可以输入以下命令判断密钥是否绑定成功。</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">ssh -T git@github.com<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>&emsp;&emsp;安装成功后，打开安装文件夹，在nodejs文件夹里新建两个文件node_cache和node_global，之后在bash中输入命令</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">npm config set prefix &quot;你的node_global路径&quot;npm config set cache &quot;你的node_cache路径&quot;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>&emsp;&emsp;<em>路径即从文件上方地址栏复制即可</em></p><p>&emsp;&emsp;右键此电脑-属性-高级系统设置-环境变量，在系统变量中新建，变量名为NODE_PATH，值为”你的node_global路径\node_modules”，用户变量和系统变量的path点编辑，找到nodejs或者新建加入nodejs文件夹的路径。</p><p>&emsp;&emsp;<strong>之后，在c盘目录下检查下有无C:\Users{账户}\下的.npmrc文件，如果有把它删除掉，记住，不是node.js安装目录下的那个！</strong></p><p>&emsp;&emsp;<em>这步不做之后安装hexo会不停报错或直接卡住，感谢让我找到解决方法的<a href="https://blog.csdn.net/weixin_45822952/article/details/106058335">博文</a>。</em></p><h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><p>&emsp;&emsp;在git bash中输入</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">npm install -g hexo<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>&emsp;&emsp;等待安装完成即可。</p><h3 id="在本地建立网站"><a href="#在本地建立网站" class="headerlink" title="在本地建立网站"></a>在本地建立网站</h3><p>&emsp;&emsp;在电脑某个地方新建一个文件夹，名字随意，如myblog，在bash中输入</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">cd &quot;你的myblog地址&quot;hexo init<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>&emsp;&emsp;hexo会自动在这里生成一个网站的雏形，在myblog中右键，点击git bash，输入</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">hexo ghexo s#或者hexo s -g<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>&emsp;&emsp;生成本地预览，打开浏览器输入 <a href="http://localhost:4000/">http://localhost:4000</a> 即可欣赏诞生于你手中的网站。</p><p>&emsp;&emsp;用记事本打开myblog文件夹中的_config.yml文件，在末尾进行如下修改</p><pre class="line-numbers language-Code" data-language="Code"><code class="language-Code">deploy:  type: git  repo: xxx   branch: main #这里其他教程都是master，但是github更新后改为main了，主要取决于你的repository页面是main还是naster<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>&emsp;&emsp;其中xxx部分，在你的github的repository页面中点击Code-SSH，将文本框中git开头的部分粘贴过来。</p><p>&emsp;&emsp;_config文件继续上翻，per_page建议改为6的倍数，如12,18等，url改为之前你的github建立的网站网址，language改为zh-CN，作者等信息可以自行更改，不影响网站建立。</p><p>&emsp;&emsp;更改完成后，在bash中输入</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">npm install hexo-deployer-git --save #安装一个插件hexo d -g<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><p>&emsp;&emsp;当然可以在前面加一个清除缓存的操作</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">hexo clean<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>&emsp;&emsp;便可以将你的本地网页同步至github网页。</p><p>&emsp;&emsp;<em>如果github网页没有改变，可以检查下设置，把里面的master改为main。</em></p><h3 id="更改主题"><a href="#更改主题" class="headerlink" title="更改主题"></a>更改主题</h3><p>&emsp;&emsp;我用的是Matery主题，更改方法可以参考下作者的<a href="https://github.com/blinkfox/hexo-theme-matery">github主题主页</a>，点击中文即可看中文说明。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> my blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
