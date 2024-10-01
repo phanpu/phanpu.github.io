@@ -1259,7 +1259,7 @@ article .content .caption {
   margin-top: 4rem;
 }
 #footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   margin-bottom: 10px;
   width: 100%;
@@ -1311,6 +1311,7 @@ article .content .caption {
     align-items: center;
     align-content: center;
     margin-bottom: 20px;
+    flex-direction: column-reverse;
   }
   #footer .footer-left {
     align-self: flex-start;
