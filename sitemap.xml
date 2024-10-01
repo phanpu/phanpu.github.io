@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://phanpu.github.io/about/index.html</loc>
+    
+    <lastmod>2024-10-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://phanpu.github.io/2024/08/26/seminar-on-p-adic-geometry/</loc>
     
     <lastmod>2024-10-01</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://phanpu.github.io/2024/07/10/seminar-on-p-adic-hodge-theory/</loc>
     
     <lastmod>2024-08-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/about/index.html</loc>
-    
-    <lastmod>2024-08-22</lastmod>
     
   </url>
   
@@ -179,13 +179,6 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/Abelian-Varieties/</loc>
-    <lastmod>2024-10-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/</loc>
     <lastmod>2024-10-01</lastmod>
     <changefreq>daily</changefreq>
@@ -194,6 +187,20 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2024-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/Number-Theory/</loc>
+    <lastmod>2024-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/Abelian-Varieties/</loc>
     <lastmod>2024-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -229,13 +236,6 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/my-blog/</loc>
-    <lastmod>2024-10-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/Number-Theory/</loc>
     <lastmod>2024-10-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
