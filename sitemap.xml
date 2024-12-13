@@ -186,20 +186,6 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/Abelian-Varieties/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
@@ -229,6 +215,20 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/2021/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -277,20 +277,6 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/p-adic-geometry/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/%E8%AF%BE%E7%A8%8B%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/Latex/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
@@ -299,6 +285,20 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/thmbox/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/p-adic-geometry/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E8%AF%BE%E7%A8%8B%E6%B5%8B%E8%AF%84/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
