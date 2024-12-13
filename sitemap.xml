@@ -214,28 +214,14 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/group-schemes/</loc>
+    <loc>http://phanpu.github.io/tags/hexo/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/formal-group-schemes/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/seminars/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/p-adic-Hodge-theory/</loc>
+    <loc>http://phanpu.github.io/tags/my-blog/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -263,6 +249,41 @@
   </url>
   
   <url>
+    <loc>http://phanpu.github.io/tags/seminars/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/p-adic-Hodge-theory/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/group-schemes/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/formal-group-schemes/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/p-adic-geometry/</loc>
+    <lastmod>2024-12-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://phanpu.github.io/tags/Latex/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
@@ -277,28 +298,7 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/hexo/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/my-blog/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/%E8%AF%BE%E7%A8%8B%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2024-12-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/p-adic-geometry/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,14 +312,14 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/%E5%BE%AE%E5%88%86%E6%B5%81%E5%BD%A2/</loc>
+    <loc>http://phanpu.github.io/tags/%E5%BA%94%E7%94%A8%E9%9B%86/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/%E5%BA%94%E7%94%A8%E9%9B%86/</loc>
+    <loc>http://phanpu.github.io/tags/%E5%BE%AE%E5%88%86%E6%B5%81%E5%BD%A2/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -342,14 +342,14 @@
 
   
   <url>
-    <loc>http://phanpu.github.io/categories/seminars/</loc>
+    <loc>http://phanpu.github.io/categories/blog/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/categories/blog/</loc>
+    <loc>http://phanpu.github.io/categories/seminars/</loc>
     <lastmod>2024-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
