@@ -179,7 +179,28 @@
 
   
   <url>
+    <loc>http://phanpu.github.io/tags/Algebra/</loc>
+    <lastmod>2025-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://phanpu.github.io/tags/Abelian-Varieties/</loc>
+    <lastmod>2025-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/</loc>
+    <lastmod>2025-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/</loc>
     <lastmod>2025-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -193,21 +214,14 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/Algebra/</loc>
+    <loc>http://phanpu.github.io/tags/hexo/</loc>
     <lastmod>2025-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/group-schemes/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/formal-group-schemes/</loc>
+    <loc>http://phanpu.github.io/tags/my-blog/</loc>
     <lastmod>2025-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -235,35 +249,28 @@
   </url>
   
   <url>
-    <loc>http://phanpu.github.io/tags/hexo/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/my-blog/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://phanpu.github.io/tags/seminars/</loc>
+    <lastmod>2025-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/p-adic-Hodge-theory/</loc>
+    <lastmod>2025-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/group-schemes/</loc>
+    <lastmod>2025-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://phanpu.github.io/tags/formal-group-schemes/</loc>
     <lastmod>2025-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -292,13 +299,6 @@
   
   <url>
     <loc>http://phanpu.github.io/tags/%E8%AF%BE%E7%A8%8B%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2025-06-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://phanpu.github.io/tags/p-adic-Hodge-theory/</loc>
     <lastmod>2025-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
